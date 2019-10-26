@@ -1,3 +1,6 @@
+
+@Entity
+
 public class TrainWay {
 
     private String numTrain;
